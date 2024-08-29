@@ -1,0 +1,25 @@
+* {
+    background: #dadada;
+}
+p {
+    color: blue;
+}
+.pink {
+    color: white;
+    background: pink;
+    padding: 5px;
+}
+#header {
+    color: white;
+    background: red;
+    padding: 10px;
+}
+input[type=text] {
+    background: none;
+    color: cyan;
+    padding: 10px;
+    border: 1px solid cyan;
+}
+a:hover {
+    color: green;
+}
